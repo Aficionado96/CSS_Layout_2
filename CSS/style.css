@@ -1,0 +1,21 @@
+body{
+	text-align: center;
+
+}
+body *{
+	background-color:rgb(220,220,220);
+}
+
+header, footer{
+	height: 70px;
+	
+	
+}
+section,aside{
+	height: 50px;
+	width:30%;
+	background-color: black;
+	display: inline-block;
+
+}
+	
